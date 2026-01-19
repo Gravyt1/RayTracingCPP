@@ -1,2 +1,0 @@
-C:/Users/jules/Documents/Applications/RayTracingC/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/jules/Documents/Applications/RayTracingC/build/CMakeFiles/ZERO_CHECK.dir
